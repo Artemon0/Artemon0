@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Artemon0
 - 👀 I’m interested in programms
-- 🌱 I’m currently learning programming JavaScript
+- 🌱 I’m currently learning programming JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me Kharkiv St. Ukrainian, 20
 
