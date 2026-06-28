@@ -2,7 +2,7 @@
 
 **Developer | Educator | Open-Source Enthusiast**
 
-I'm a 16-year-old developer from Ukraine with a passion for creating practical tools and making education accessible. My GitHub is a mix of utility libraries, game development plugins, and comprehensive programming courses—all designed to help others learn and build.
+I'm a 13-year-old developer from Ukraine with a passion for creating practical tools and making education accessible. My GitHub is a mix of utility libraries, game development plugins, and comprehensive programming courses—all designed to help others learn and build.
 
 ---
 
