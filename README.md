@@ -6,7 +6,7 @@ I'm a 13-year-old developer from Ukraine with a passion for creating practical t
 
 ---
 
-## 📊 GitHub Stats (auto-updated)
+## 📊 GitHub Stats
 
 ![Artemon0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemon0&show_icons=true&theme=radical&hide_title=true)
 
