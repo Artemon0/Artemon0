@@ -14,7 +14,7 @@ I'm a 13-year-old developer from Ukraine with a passion for creating practical t
 
 ![GitHub followers](https://img.shields.io/github/followers/Artemon0?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Artemon0?style=social)
-![GitHub repo count](https://img.shields.io/github/repos/Artemon0?color=blue)
+![GitHub repo count](![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Artemon0/repos?per_page=100&label=Repositories&query=$.length&color=blue))
 
 ---
 
